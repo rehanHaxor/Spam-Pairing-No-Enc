@@ -66,7 +66,7 @@ def choose():
     print(f"│({Fore.YELLOW}0{Fore.RED}). => {Fore.WHITE}Exit")
     print(f"╰─────────────────────────")
     
-    choice = input(f"{Fore.YELLOW}[ pilih menu ]~#")
+    choice = input(f"{Fore.YELLOW}[ pilih menu ]~# ")
     
     if choice == '1':
         url = 'https://haxor.id/archive'
