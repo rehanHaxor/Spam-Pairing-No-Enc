@@ -1,8 +1,7 @@
 # 🕶️ WA Pairing Code Spammer – Dark Edition
 
-> ⚠️ Tool ini bukan buat orang biasa.  
-> Dibuat khusus buat mereka yang suka _nyodok_ protokol WhatsApp sampai muntah pairing.
-
+> ⚠️Tool ini dibuat untuk kebutuhan eksperimen, riset, dan pembelajaran terkait proses pairing WhatsApp.  
+> Tidak disarankan untuk digunakan sembarangan
 ---
 
 ### ⚔️ Fitur Ganas
