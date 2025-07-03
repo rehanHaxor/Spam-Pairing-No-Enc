@@ -15,5 +15,15 @@
 
 ### ⚙️ Cara Eksekusi
 ```bash
-npm install
-node index.js
+~$ npm install 
+~$ node spam.js
+
+╦═╗┌─┐┬ ┬┌─┐┌┐┌  ╦ ╦┌─┐─┐ ┬┌─┐┬─┐
+╠╦╝├┤ ├─┤├─┤│││  ╠═╣├─┤┌┴┬┘│ │├┬┘
+╩╚═└─┘┴ ┴┴ ┴┘└┘  ╩ ╩┴ ┴┴ └─└─┘┴└─
+🔥 GASS CIK (Masukin Nomor WhatsApp): 62xxxxxx
+[😈 spam pairing by rehan 😈] 23PH-V4T2 🔓
+[😈 spam pairing by rehan 😈] 9J2W-MFW9 🔓
+[😈 spam pairing by rehan 😈] VS83-VHQ2 🔓
+[😈 spam pairing by rehan 😈] X8S8-DHGW 🔓
+[😈 spam pairing by rehan 😈] RQ7L-AGRR 🔓
